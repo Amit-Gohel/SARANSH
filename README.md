@@ -26,3 +26,8 @@ Run main.py file to run code<br></h3>
 · deep_translator<br>
 · transformers<br>
 · cv2<br>
+
+
+Demo Video Link:- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7041718593276809216?utm_source=share&utm_medium=member_desktop">
+            Link
+        </a>
